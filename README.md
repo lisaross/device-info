@@ -15,8 +15,6 @@ A little service to check a device information.
 * Platform
 * Languages
 
-You can see it on https://device-info.now.sh
-
 ## License
 
 MIT License
